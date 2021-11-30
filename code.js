@@ -14,3 +14,4 @@ function sayHello(name) {
     }
 }
 
+// Exercise #2 Ensure our function returns the right data type.

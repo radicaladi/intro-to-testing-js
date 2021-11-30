@@ -36,3 +36,6 @@ describe('sayHello Unit Tests', function() {
         expect(sayHello(21)).toBe('That\'s not a name!')
     });
 });
+
+// Exercise #2 Ensure our function returns the right data type.
+
